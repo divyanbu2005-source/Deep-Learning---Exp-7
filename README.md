@@ -30,7 +30,7 @@ Write your own steps
 
 **PROGRAM**
 
-**Name:**
+**Name:**DIVYA A
 
 **Register Number:**
 
